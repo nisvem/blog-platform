@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component matches the snapshot 1`] = `
+<DocumentFragment>
+  <a
+    class="bg-white rounded-xl text-dark-black p-4 flex flex-col h-full transition-all cursor-pointer shadow hover:bg-accent"
+    href="/blog/1"
+  >
+    <h2
+      class="text-xl font-bold mb-2"
+    >
+      Test Post
+    </h2>
+    <p
+      class="mb-auto"
+    >
+      This is a test post...
+    </p>
+    <div
+      class="flex flex-row gap-4 justify-between"
+    >
+      <p
+        class="text-xs opacity-85 mt-2"
+      >
+        January 1, 2023
+      </p>
+      <p
+        class="text-xs opacity-85 mt-2"
+      >
+        Test Author
+      </p>
+    </div>
+  </a>
+</DocumentFragment>
+`;
