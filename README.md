@@ -53,7 +53,7 @@ The application fetches blog data from a public API. You can configure the API e
 
 ## Deployment
 
-The application is deployed on Vercel. You can view the live version at [Deployment URL].
+The application is deployed on Vercel. You can view the live version at https://blog-platform-two-gamma.vercel.app/.
 
 ## Documentation
 
